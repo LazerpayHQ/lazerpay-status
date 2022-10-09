@@ -8,7 +8,7 @@ sites:
   - name: Lazerpay Dashboard
     url: https://dashboard.lazerpay.finance
   - name: Lazerpay API
-    url: https://api.lazerpay.engineering
+    url: https://api.lazerpay.engineering/api/v1
 
 assignees:
   - iamnotstatic
