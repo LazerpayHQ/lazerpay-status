@@ -22,19 +22,19 @@
     "url": "https://dashboard.lazerpay.finance",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.lazerpay.finance.ico",
     "slug": "lazerpay-dashboard",
-    "status": "down",
-    "uptime": "97.06%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "97.06%",
-    "time": 2053,
-    "timeDay": 2053,
-    "timeWeek": 2053,
-    "timeMonth": 2053,
-    "timeYear": 2053,
+    "status": "up",
+    "uptime": "83.41%",
+    "uptimeDay": "83.41%",
+    "uptimeWeek": "83.41%",
+    "uptimeMonth": "83.41%",
+    "uptimeYear": "83.41%",
+    "time": 1933,
+    "timeDay": 1933,
+    "timeWeek": 1933,
+    "timeMonth": 1933,
+    "timeYear": 1933,
     "dailyMinutesDown": {
-      "2022-10-09": 16
+      "2022-10-09": 107
     }
   },
   {
