@@ -19,10 +19,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lazerpay.finance
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Lazerpay** Unlock global payments for your business today"
-  introMessage: Get paid in crypto from anywhere and withdraw instantly to your bank account, or invest your revenue to earn more. Create a free account now."
+  logoUrl: https://res.cloudinary.com/lazer/image/upload/v1664269685/random%20images/lazerpay-logo-blue_ugncdb.svg
+  name: Lazerpay Status
+  introTitle: "**Lazerpay** | Unlock global payments for your business today"
+  introMessage: Lazerpay helps businesses and creators collect crypto payments worldwide, invest their crypto income, and withdraw in minutes.
   navbar:
     - title: Status
       href: /
