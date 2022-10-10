@@ -20,7 +20,6 @@ status-website:
   cname: status.lazerpay.finance
   # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/lazer/image/upload/v1664269685/random%20images/lazerpay-logo-blue_ugncdb.svg
-  name: Lazerpay Status
   introTitle: "**Lazerpay** | Unlock global payments for your business today"
   introMessage: Lazerpay helps businesses and creators collect crypto payments worldwide, invest their crypto income, and withdraw in minutes.
   navbar:
