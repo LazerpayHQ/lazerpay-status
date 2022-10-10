@@ -22,19 +22,19 @@
     "url": "https://dashboard.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "lazerpay-dashboard",
-    "status": "down",
-    "uptime": "93.80%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "93.80%",
-    "time": 2845,
-    "timeDay": 3637,
-    "timeWeek": 2845,
-    "timeMonth": 2845,
-    "timeYear": 2845,
+    "status": "up",
+    "uptime": "92.79%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "92.79%",
+    "time": 2681,
+    "timeDay": 3239,
+    "timeWeek": 2681,
+    "timeMonth": 2681,
+    "timeYear": 2681,
     "dailyMinutesDown": {
-      "2022-10-10": 16,
+      "2022-10-10": 38,
       "2022-10-09": 107
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 1211,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-10-10": 636
+      "2022-10-10": 657
     }
   },
   {
