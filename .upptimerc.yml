@@ -5,10 +5,19 @@ repo: lazerpay-status # The name of this repository
 sites:
   - name: Lazerpay Website
     url: https://www.lazerpay.finance
+    icon: https://lazerpay.finance/images/favicon.svg
   - name: Lazerpay Dashboard
     url: https://dashboard.lazerpay.finance
+    icon: https://lazerpay.finance/images/favicon.svg
   - name: Lazerpay API
     url: https://api.lazerpay.engineering/api/v1
+    icon: https://lazerpay.finance/images/favicon.svg
+  - name: Lazerpay Blog
+    url: https://blog.lazerpay.finance
+    icon: https://lazerpay.finance/images/favicon.svg
+  - name: Lazerpay Forum
+    url: https://forum.lazerpay.finance
+    icon: https://lazerpay.finance/images/favicon.svg
 
 assignees:
   - iamnotstatic
