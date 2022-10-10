@@ -27,7 +27,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lazerpay.finance
-  # baseUrl: /your-repo-name
+  baseUrl: /lazerpay-status
+  theme: dark
+  faviconSvg: https://lazerpay.finance/images/favicon.svg
   logoUrl: https://res.cloudinary.com/lazer/image/upload/v1664269685/random%20images/lazerpay-logo-blue_ugncdb.svg
   name: Status
   introTitle: "**Lazerpay** | Unlock global payments for your business today"
