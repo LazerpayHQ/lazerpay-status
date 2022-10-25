@@ -1,7 +1,7 @@
 url: https://api.lazerpay.engineering/api/v1
-status: down
-code: 502
-responseTime: 108
-lastUpdated: 2022-10-25T11:06:20.874Z
+status: up
+code: 200
+responseTime: 57
+lastUpdated: 2022-10-25T11:19:15.037Z
 startTime: Sun Oct 09 2022 11:46:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
