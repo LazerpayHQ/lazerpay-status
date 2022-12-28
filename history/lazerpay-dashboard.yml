@@ -1,7 +1,7 @@
 url: https://dashboard.lazerpay.finance
-status: down
-code: 500
-responseTime: 3120
-lastUpdated: 2022-12-28T07:54:27.503Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2022-12-28T08:19:44.954Z
 startTime: Sun Oct 09 2022 11:46:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
