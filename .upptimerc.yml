@@ -3,19 +3,22 @@ owner: LazerPay-Finance # Your GitHub organization or username, where this repos
 repo: lazerpay-status # The name of this repository
 
 sites:
-  - name: Lazerpay Website
+  - name: API 
+    url: https://api.lazerpay.engineering/api/v1/health-check
+    icon: https://lazerpay.finance/images/favicon.svg
+  - name: Webhooks
+    url: https://api.lazerpay.engineering/api/v1/health-check
+    icon: https://lazerpay.finance/images/favicon.svg
+  - name: Website
     url: https://www.lazerpay.finance
     icon: https://lazerpay.finance/images/favicon.svg
-  - name: Lazerpay Dashboard
+  - name: Dashboard
     url: https://dashboard.lazerpay.finance
     icon: https://lazerpay.finance/images/favicon.svg
-  - name: Lazerpay API
-    url: https://api.lazerpay.engineering/api/v1
-    icon: https://lazerpay.finance/images/favicon.svg
-  - name: Lazerpay Blog
+  - name: Blog
     url: https://blog.lazerpay.finance
     icon: https://lazerpay.finance/images/favicon.svg
-  - name: Lazerpay Forum
+  - name: Forum
     url: https://forum.lazerpay.finance
     icon: https://lazerpay.finance/images/favicon.svg
 
@@ -31,8 +34,6 @@ status-website:
   faviconSvg: https://lazerpay.finance/images/favicon.svg
   logoUrl: https://res.cloudinary.com/lazer/image/upload/v1664269685/random%20images/lazerpay-logo-blue_ugncdb.svg
   name: Status
-  introTitle: "**Lazerpay** | Unlock global payments for your business today"
-  introMessage: Lazerpay helps businesses and creators collect crypto payments worldwide, invest their crypto income, and withdraw in minutes.
   navbar:
     - title: Status
       href: /
