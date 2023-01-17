@@ -58,18 +58,20 @@
     "url": "https://dashboard.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 194,
-    "timeWeek": 308,
-    "timeMonth": 278,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 175,
+    "timeWeek": 289,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2023-01-17": 0
+    }
   },
   {
     "name": "Blog",
