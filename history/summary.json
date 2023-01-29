@@ -4,54 +4,60 @@
     "url": "https://api.lazerpay.engineering/api/v1/health-check",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 310,
     "timeDay": 323,
     "timeWeek": 346,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "Webhooks",
     "url": "https://api.lazerpay.engineering/api/v1/health-check",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "webhooks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 77,
     "timeDay": 46,
     "timeWeek": 54,
     "timeMonth": 77,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "Website",
     "url": "https://www.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 767,
     "timeDay": 787,
     "timeWeek": 754,
     "timeMonth": 767,
     "timeYear": 767,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 2
+    }
   },
   {
     "name": "Dashboard",
@@ -78,10 +84,10 @@
     "url": "https://blog.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 615,
@@ -89,16 +95,18 @@
     "timeWeek": 644,
     "timeMonth": 615,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 1
+    }
   },
   {
     "name": "Forum",
     "url": "https://forum.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +115,8 @@
     "timeWeek": 451,
     "timeMonth": 419,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   }
 ]
