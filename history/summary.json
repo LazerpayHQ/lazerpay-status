@@ -49,19 +49,19 @@
     "url": "https://www.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 727,
-    "timeWeek": 703,
-    "timeMonth": 763,
-    "timeYear": 960,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 955,
+    "timeDay": 644,
+    "timeWeek": 678,
+    "timeMonth": 755,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-03-31": 0
+      "2023-03-31": 26
     }
   },
   {
