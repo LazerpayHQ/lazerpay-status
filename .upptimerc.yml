@@ -15,12 +15,6 @@ sites:
   - name: Dashboard
     url: https://dashboard.lazerpay.finance
     icon: https://lazerpay.finance/images/favicon.svg
-  - name: Blog
-    url: https://blog.lazerpay.finance
-    icon: https://lazerpay.finance/images/favicon.svg
-  - name: Forum
-    url: https://forum.lazerpay.finance
-    icon: https://lazerpay.finance/images/favicon.svg
 
 assignees:
   - iamnotstatic
