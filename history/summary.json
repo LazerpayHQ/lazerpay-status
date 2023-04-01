@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.32%",
-    "time": 407,
-    "timeDay": 612,
-    "timeWeek": 391,
+    "time": 408,
+    "timeDay": 532,
+    "timeWeek": 398,
     "timeMonth": 458,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2023-03-17": 19,
       "2023-02-28": 448,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 100,
-    "timeDay": 36,
-    "timeWeek": 62,
+    "timeDay": 64,
+    "timeWeek": 66,
     "timeMonth": 99,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -55,11 +55,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 953,
-    "timeDay": 579,
-    "timeWeek": 665,
-    "timeMonth": 761,
-    "timeYear": 953,
+    "time": 954,
+    "timeDay": 711,
+    "timeWeek": 710,
+    "timeMonth": 771,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2023-03-31": 26
     }
@@ -75,51 +75,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 294,
-    "timeDay": 441,
-    "timeWeek": 301,
-    "timeMonth": 313,
-    "timeYear": 294,
+    "time": 293,
+    "timeDay": 357,
+    "timeWeek": 298,
+    "timeMonth": 312,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2023-01-17": 17
     }
-  },
-  {
-    "name": "Blog",
-    "url": "https://blog.lazerpay.finance",
-    "icon": "https://lazerpay.finance/images/favicon.svg",
-    "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 291,
-    "timeWeek": 438,
-    "timeMonth": 509,
-    "timeYear": 567,
-    "dailyMinutesDown": {
-      "2023-04-01": 0
-    }
-  },
-  {
-    "name": "Forum",
-    "url": "https://forum.lazerpay.finance",
-    "icon": "https://lazerpay.finance/images/favicon.svg",
-    "slug": "forum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 223,
-    "timeWeek": 324,
-    "timeMonth": 416,
-    "timeYear": 439,
-    "dailyMinutesDown": {}
   }
 ]
