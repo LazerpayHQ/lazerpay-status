@@ -1,7 +1,7 @@
 url: https://api.lazerpay.engineering/api/v1/health-check
 status: up
 code: 200
-responseTime: 322
-lastUpdated: 2023-04-23T23:00:29.409Z
+responseTime: 304
+lastUpdated: 2023-04-24T23:00:29.935Z
 startTime: Mon Jan 02 2023 09:27:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
