@@ -1,7 +1,7 @@
 url: https://api.lazerpay.engineering/api/v1/health-check
 status: down
 code: 404
-responseTime: 150
-lastUpdated: 2023-06-26T23:00:32.142Z
+responseTime: 235
+lastUpdated: 2023-06-27T23:00:27.871Z
 startTime: Mon Jan 02 2023 09:27:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
