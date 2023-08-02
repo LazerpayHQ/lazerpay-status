@@ -3,8 +3,10 @@ owner: LazerPay-Finance # Your GitHub organization or username, where this repos
 repo: lazerpay-status # The name of this repository
 
 sites:
+- status.lazerpay.finance
 
 assignees:
+- iamnotstatic
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
