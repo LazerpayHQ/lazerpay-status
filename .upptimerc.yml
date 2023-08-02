@@ -3,7 +3,9 @@ owner: LazerPay-Finance # Your GitHub organization or username, where this repos
 repo: lazerpay-status # The name of this repository
 
 sites:
-- status.lazerpay.finance
+- name: Status Page 
+  url: https://status.lazerpay.finance
+  icon: https://lazerpay.finance/images/favicon.svg
 
 assignees:
 - iamnotstatic
