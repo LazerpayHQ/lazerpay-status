@@ -4,19 +4,19 @@
     "url": "https://status.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "status-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 258,
-    "timeWeek": 252,
-    "timeMonth": 288,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
+    "time": 264,
+    "timeDay": 413,
+    "timeWeek": 292,
+    "timeMonth": 297,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 110
     }
   }
 ]
