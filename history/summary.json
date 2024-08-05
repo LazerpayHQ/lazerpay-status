@@ -4,7 +4,7 @@
     "url": "https://status.lazerpay.finance",
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 717,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2024-08-05": 0,
       "2024-08-03": 44,
       "2024-08-02": 283,
       "2024-08-01": 26,
