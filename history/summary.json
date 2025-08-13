@@ -5,15 +5,15 @@
     "icon": "https://lazerpay.finance/images/favicon.svg",
     "slug": "status-page",
     "status": "up",
-    "uptime": "94.43%",
+    "uptime": "94.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "88.81%",
+    "uptimeYear": "88.82%",
     "time": 422,
-    "timeDay": 354,
-    "timeWeek": 417,
-    "timeMonth": 311,
+    "timeDay": 336,
+    "timeWeek": 428,
+    "timeMonth": 316,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-07-25": 235,
@@ -69,8 +69,7 @@
       "2024-08-18": 18,
       "2024-08-16": 24,
       "2024-08-15": 19,
-      "2024-08-14": 24,
-      "2024-08-13": 24
+      "2024-08-14": 24
     }
   }
 ]
