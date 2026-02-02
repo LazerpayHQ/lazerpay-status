@@ -1,7 +1,7 @@
 url: https://status.lazerpay.finance
-status: up
-code: 200
-responseTime: 107
-lastUpdated: 2026-02-02T07:56:04.303Z
+status: down
+code: 415
+responseTime: 71
+lastUpdated: 2026-02-02T09:27:10.613Z
 startTime: 2023-08-02T08:37:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
